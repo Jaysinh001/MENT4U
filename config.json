@@ -1,0 +1,19 @@
+{
+    "params":
+    {        
+        "local_server":"True",
+        "local_uri":"mysql+pymysql://root:@localhost/spammers",
+        "prod_uri":"mysql+pymysql://root:@localhost/spammers",
+        "fb_url":"https://facebook.com/ment4u",
+        "tw_url":"https://twitter.com/ment4u",
+        "github_url":"https://githubcom/ment4u"
+
+
+
+    }
+
+
+
+
+
+}
